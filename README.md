@@ -1,4 +1,5 @@
 🎬 Movie Recommender System
+<img width="1352" height="653" alt="Screenshot 2026-04-08 095016" src="https://github.com/user-attachments/assets/b1de77b2-a824-4233-a99e-891e7b581dec" />
 
 1. 📌 Introduction
 
